@@ -1,0 +1,19 @@
+{
+    "name": "Bumblebee",
+    "symbol": "BumBee",
+    "description": "This token represents Bumblebee tokens on the Solana blockchain.",
+    "image": "https://example.com/bumblebee-token.png",
+    "website": "https://example.com",
+    "external_url": "https://example.com/bumblebee-metadata.json",
+    "attributes": [
+      {
+        "trait_type": "Rarity",
+        "value": "Common"
+      },
+      {
+        "trait_type": "Category",
+        "value": "Digital Art"
+      }
+    ]
+  }
+  
