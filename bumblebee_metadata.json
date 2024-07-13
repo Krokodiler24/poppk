@@ -1,6 +1,6 @@
 {
     "name": "Bumblebee Token",
-    "symbol": "BUMBLE",
-    "decimals": 8,
+    "symbol": "BumBee",
+    "decimals": 9,
     "total_supply": 1000000000
 }
